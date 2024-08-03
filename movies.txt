@@ -1,0 +1,21 @@
+movieId,title,genres
+1,The Shawshank Redemption,Drama
+2,The Godfather,Drama|Crime
+3,The Dark Knight,Action|Crime
+4,Inception,Action|Sci-Fi
+5,The Matrix,Action|Sci-Fi
+6,Pulp Fiction,Crime|Drama
+7,Forrest Gump,Drama|Romance
+8,The Lord of the Rings: The Fellowship of the Ring,Action|Adventure|Fantasy
+9,The Lord of the Rings: The Two Towers,Action|Adventure|Fantasy
+10,The Lord of the Rings: The Return of the King,Action|Adventure|Fantasy
+11,Gladiator,Action|Adventure|Drama
+12,Avatar,Action|Adventure|Sci-Fi
+13,The Departed,Crime|Drama|Thriller
+14,The Silence of the Lambs,Crime|Drama|Thriller
+15,The Usual Suspects,Crime|Drama|Mystery
+16,Interstellar,Adventure|Drama|Sci-Fi
+17,The Prestige,Drama|Mystery|Thriller
+18,Jurassic Park,Action|Adventure|Sci-Fi
+19,Fight Club,Drama
+20,The Social Network,Biography|Drama
